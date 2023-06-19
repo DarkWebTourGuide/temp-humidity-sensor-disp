@@ -2,8 +2,6 @@
   lcd-i2c-temp-humid.ino
   Use NewLiquidCrystal Library
   Use DHT Libraries from Adafruit
-  DroneBot Workshop 2018
-  https://dronebotworkshop.com
 */
  
 // Include Wire Library for I2C
